@@ -23,5 +23,20 @@
     <Image Include="Image.bmp">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="Assets\right.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\up.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\press.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\left.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\down.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
